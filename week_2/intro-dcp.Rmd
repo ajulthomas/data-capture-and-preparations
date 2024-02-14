@@ -1,0 +1,26 @@
+---
+title: "Introduction to Data Capture and Preparations"
+author: "Ajul Thomas"
+date: "2024-02-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction to Data Capture and Preparations
+### Lab Week 2
+
+
+# shortcut for code block: Ctrl + Alt + i 
+```{r}
+
+
+
+```
+
+```{r}
+
+```
+
